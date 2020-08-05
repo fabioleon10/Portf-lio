@@ -1,0 +1,19 @@
+footer {
+    height: 10vh;
+    img {
+        padding-top: 30px;
+    }
+    a {
+        font-size: 18px;
+        color: $light-blue !important;
+        &:hover {
+            
+                color: $orange !important;
+            
+        }
+    }
+    p {
+        align-items: center;
+    }
+}
+

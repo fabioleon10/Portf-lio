@@ -1,0 +1,26 @@
+.quem-somos {
+    height: 90vh;
+    align-items: center;
+    padding-top: 200px;
+    h1 {
+
+    
+        color: $blue;
+       
+    }
+
+    p {
+        font-size: 20px;
+        color: white;
+    }
+
+    .img-perfil {
+        padding-top: 80px;
+        width: 80%;
+        padding-left: 60px;
+    }
+
+    .img-skills{
+        width: 30%;
+    }
+}
